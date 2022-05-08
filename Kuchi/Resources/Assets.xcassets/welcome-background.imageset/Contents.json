@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "swift_world.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
